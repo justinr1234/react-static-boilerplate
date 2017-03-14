@@ -12,3 +12,12 @@ npm-debug.log
 
 # Firebase
 firebase-debug.log
+
+# Serverless
+.serverless
+
+# Webpack
+.webpack
+
+# Settings
+.env
